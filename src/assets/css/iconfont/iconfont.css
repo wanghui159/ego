@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3518971 */
+  src: url('iconfont.woff2?t=1657685424718') format('woff2'),
+       url('iconfont.woff?t=1657685424718') format('woff'),
+       url('iconfont.ttf?t=1657685424718') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-caidan07:before {
+  content: "\e606";
+}
+
+.icon-shanchu:before {
+  content: "\e74b";
+}
+
+.icon-hetongguanli:before {
+  content: "\e610";
+}
+
+.icon-tuichu:before {
+  content: "\e63d";
+}
+
+.icon-icon_quit:before {
+  content: "\e6a7";
+}
+
+.icon-right-indent:before {
+  content: "\e805";
+}
+
+.icon-icon_nav:before {
+  content: "\e616";
+}
+
+.icon-addto:before {
+  content: "\e698";
+}
+
+.icon-xiugai:before {
+  content: "\e63c";
+}
+
+.icon-product:before {
+  content: "\e699";
+}
+
+.icon-bx-right-indent:before {
+  content: "\e66d";
+}
+
+.icon-service:before {
+  content: "\e6ff";
+}
+
+.icon-email:before {
+  content: "\e69f";
+}
+
+.icon-add:before {
+  content: "\e661";
+}
+

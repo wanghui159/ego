@@ -1,0 +1,107 @@
+{
+  "id": "3518971",
+  "name": "ego",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "394279",
+      "name": "user",
+      "font_class": "caidan07",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "577357",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "642067",
+      "name": "manage",
+      "font_class": "hetongguanli",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1010160",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "1625002",
+      "name": "icon_quit",
+      "font_class": "icon_quit",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "5127490",
+      "name": "right-indent",
+      "font_class": "right-indent",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "8080103",
+      "name": "icon_nav",
+      "font_class": "icon_nav",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "8106214",
+      "name": "addto",
+      "font_class": "addto",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "8765253",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "13020823",
+      "name": "product",
+      "font_class": "product",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "20112899",
+      "name": "bx-right-indent",
+      "font_class": "bx-right-indent",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "69056",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "122696",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "151331",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    }
+  ]
+}
